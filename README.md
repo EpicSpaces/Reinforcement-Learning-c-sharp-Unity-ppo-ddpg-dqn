@@ -1,3 +1,3 @@
-# Reinforcement-Learning-completly-written-from-pytorch-to-C# Unity
+# Reinforcement Learning completely written from PyTorch to C# Unity Asset 
 
 have fun !
