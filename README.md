@@ -2,4 +2,4 @@
 
 have fun !
 
-![Alt text](Screen_Shot_1.png?raw=true "pic")
+![Alt text](Screen_Shot_1.gif?raw=true "pic")
